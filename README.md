@@ -35,7 +35,7 @@ A modern file organizer application with a dark theme, built with Python and Dea
 
 ### Method 2: Download Executable (Windows)
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/FileOrganizer/releases) page
+1. Download the latest release from the [Releases]([https://github.com/yourusername/FileOrganizer/releases](https://github.com/DVDHSN/Simple-File-Organizer-)) page
 2. Run the `FileOrganizer.exe` file
 
 ## Building from Source
