@@ -68,6 +68,7 @@ To build the executable yourself:
 Simple yet effective UI. Clean, Sleek, Modern and Easy to use
 
 ![Screenshot 2025-06-09 200421](https://github.com/user-attachments/assets/1ed39ab2-02dc-4cea-859b-f66084c66b38)
+
 Sorts files based on its type 
 
 ![Screenshot 2025-06-09 200455](https://github.com/user-attachments/assets/23fcc118-deca-467d-a0f6-fc22363bee72)
