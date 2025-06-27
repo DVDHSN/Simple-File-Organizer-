@@ -1,4 +1,5 @@
 # File Organizer
+## NOTE: PROJECT RENAMED TO SORTLIFY AND HAVE BEEN MOVED TO https://github.com/DVDHSN/sortlify
 
 A modern file organizer application with a dark theme, built with Python and DearPyGui.
 
